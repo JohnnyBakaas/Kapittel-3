@@ -6,6 +6,9 @@ namespace Kapittel_3
     {
         static void Main(string[] args)
         {
+            Oppgave_7 opgave_7 = new Oppgave_7();
+            opgave_7.Run();
+
             Oppgave_3 oppgave_3 = new Oppgave_3();
             oppgave_3.Run();
             Oppgave_4 oppgave_4 = new Oppgave_4();
